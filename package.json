@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Uday patil",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Udaypatil15/chai-backend.git"
+  },
+  "author": "Uday Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Udaypatil15/chai-backend/issues"
+  },
+  "homepage": "https://github.com/Udaypatil15/chai-backend#readme"
 }
