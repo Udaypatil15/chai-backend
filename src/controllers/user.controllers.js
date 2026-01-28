@@ -1,4 +1,4 @@
-import { asyncHandler } from "../utils/asynHandlle.jsr";
+import { asyncHandler } from "../utils/asynHandller.js";
 
 
 const registerUser = asyncHandler( async (requestAnimationFrame, res) => {
